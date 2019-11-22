@@ -145,7 +145,7 @@ members:
 * Damian, 
 * Anna, 
 * Julia, 
-* Krista and 
+* Harry and 
 * Mike
 
 
@@ -186,7 +186,7 @@ members:
 * Jan, 
 * Corne, 
 * Daan, 
-* Harry and 
+* Krista and 
 * Remon
 
 How can the themes people and living environment and food & air be communicated?
