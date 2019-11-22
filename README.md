@@ -1,4 +1,4 @@
-https://geomediadesign.github.io/dreamproject/.
+https://geomediadesign.github.io/dreamproject/
 # dreamproject
 week 48, – Short international project  - New Building of Aeres University of Applied Sciences
 
@@ -97,7 +97,7 @@ members:
 * Sil
 
 
-De identity serves as a binding element for employees and students, this means that first employees and students should identify themselves with this. The identity as it is described right now, is quite verbal. It’d be nice to express this in rituals, symbols, objects and other initiatives that would influence the behaviour of students and employees. This should reflect in the school’s daily routine, like in teaching, having a (lunch)break, attending meetings, working in projects, commuting to school, etc. What behaviour fits within this identity? What are the other events that the school should pay more attention to? What is the role of the citizens in the city of Almere. How does all of this come together in the new building?
+The identity serves as a binding element for employees and students, this means that first employees and students should identify themselves with this. The identity as it is described right now, is quite verbal. It’d be nice to express this in rituals, symbols, objects and other initiatives that would influence the behaviour of students and employees. This should reflect in the school’s daily routine, like in teaching, having a (lunch)break, attending meetings, working in projects, commuting to school, etc. What behaviour fits within this identity? What are the other events that the school should pay more attention to? What is the role of the citizens in the city of Almere. How does all of this come together in the new building?
 
 ## assignment 2
 **Question: How can the new building communicate the four SDG’s that Aeres University Almere focuses on?**
@@ -178,7 +178,8 @@ What are the connecting dots with the current study programmes? What facilities 
 
 ## assignment 6
 **Question: Each level of the building has its own theme:Earth, Water, People & living environment, Food & air
-How can the themes earth and water be communicated?**
+How can the themes people and living environment and food & air be communicated?**
+
 
 members:
 
@@ -189,6 +190,6 @@ members:
 * Krista and 
 * Remon
 
-How can the themes people and living environment and food & air be communicated?
+
 
 What are the connecting dots with the current study programmes? What facilities should be offered for these themes?
