@@ -1,6 +1,6 @@
 https://geomediadesign.github.io/dreamproject/
 
-https://spark.adobe.com/page/2xv5k5rqyLgjt/
+[creative thinking](https://spark.adobe.com/page/2xv5k5rqyLgjt/)
 
 # dreamproject
 week 48, – Short international project  - New Building of Aeres University of Applied Sciences
