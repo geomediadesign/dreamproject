@@ -1,6 +1,6 @@
 https://geomediadesign.github.io/dreamproject/
 
-[start presentation ](https://github.com/geomediadesign/dreamproject/blob/master/week48dreamproject.pdf) (volg link en klik op download)
+[start presentation ](https://github.com/geomediadesign/dreamproject/blob/master/week48dreamproject.pdf) (follow link and download)
 
 [creative thinking](https://spark.adobe.com/page/2xv5k5rqyLgjt/)
 
