@@ -29,8 +29,9 @@ In mixed groups, you will work on the following five questions:
 ### 2. How can the new building communicate the four SDG’s that Aeres University Almere focuses on? 
 ### 3. How can the new building convey that it is a highly sustainable building? 
 ### 4. How can the new building showcase all the study programmes currently offered at Aeres University Almere? 
-### 5. How can the different themes per level (earth, water, people and living environment, food and air) be communicated?
-### 6. How can the different themes per level (earth, water, people and living environment, food and air) be communicated?
+### 5. How can the themes earth and water be communicated at two levels of the building?
+### 6. How can the themes people & living environment and food & air be communicated at two levels of the building?
+
 
 # programme
 ## Programme Monday 25th November
@@ -177,10 +178,9 @@ How can the themes earth and water be communicated?
 What are the connecting dots with the current study programmes? What facilities should be offered for these themes?
 
 ## assignment 6
-**Question: Each level of the building has its own theme:Earth, Water, People & living environment, Food & air
-How can the themes people and living environment and food & air be communicated?**
+**Question: How can the themes people & living environment and food & air be communicated at two levels of the building?**
 
-
+### 6. 
 members:
 
 * Inga, 
