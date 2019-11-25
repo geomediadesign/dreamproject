@@ -25,7 +25,7 @@ Sustainable building – consistent with Floriade’s objectives
 
 In mixed groups, you will work on the following five questions:
 
-### 1. How can the new building communicate the identity of Aeres University Almere “let the city breathe"?
+### 1. How can the new building communicate the identity of Aeres University Almere “let the city breathe"? (#1-waar-liggen-er-atletiekbanen-in-nederland)
 ### 2. How can the new building communicate the four SDG’s that Aeres University Almere focuses on? 
 ### 3. How can the new building convey that it is a highly sustainable building? 
 ### 4. How can the new building showcase all the study programmes currently offered at Aeres University Almere? 
